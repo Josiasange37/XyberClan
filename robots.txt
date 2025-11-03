@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xyber-clan.vercel.app/sitemap.xml
